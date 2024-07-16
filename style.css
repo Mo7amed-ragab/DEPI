@@ -1,0 +1,44 @@
+.table-color {
+  width: 85%;
+  border-color: blueviolet;
+}
+h4 {
+  margin: 0;
+}
+th {
+  background-color: darkgray;
+}
+.top-sec th {
+  background-color: #4caf50;
+}
+th,
+td {
+  padding: 10px;
+}
+.email-sec {
+  background-color: rgb(255 39 39);
+  padding: 70px;
+}
+form input,
+label {
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.gre {
+  border-color: green;
+}
+.gre table {
+  border-color: red;
+}
+.table-2-3 {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.gold {
+  border-color: gold;
+}
+.blue {
+  border-color: blue;
+}
